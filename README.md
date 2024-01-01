@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quity**
 - 🌱 I’m currently learning **Bash**
-- 📫 How to reach me **anuhasroxofficial@gmail.com**
+- 📫 How to reach me **hello@kaveeshaanuhas.info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.instagram.com/_kaveesha_anuhas_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AnuhasRox" /></a> 
